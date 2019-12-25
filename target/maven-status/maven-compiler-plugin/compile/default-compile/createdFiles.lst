@@ -1,0 +1,6 @@
+net\taskmanager\service\TasksServiceImpl.class
+net\taskmanager\Task\Tasks.class
+net\taskmanager\Repos\TasksRepo.class
+net\taskmanager\Repos\TasksRepoImpl.class
+net\taskmanager\controller\TasksController.class
+net\taskmanager\service\TasksService.class
